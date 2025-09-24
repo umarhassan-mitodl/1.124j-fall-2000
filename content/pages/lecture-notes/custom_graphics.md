@@ -25,7 +25,7 @@ Topics
 {{< anchor "1" >}}{{< /anchor >}}1\. Custom Painting
 ----------------------------------------------------
 
-### _(Ref. [Java® Tutorial](http://java.sun.com/docs/books/tutorial/uiswing/painting/index.html))_
+### _(Ref. {{% resource_link "6e8e835a-2cf7-4210-8e5b-642e4d203b7c" "Java® Tutorial" %}})_
 
 So far, we have seen user interface components that display static content. The individual components posessed sufficient knowledge to draw themselves and so we did not have to do anything special beyond creating the components and describing their layout. If a component is obscured by some other window and then uncovered again, it is the job of the window system to make sure that the component is properly redrawn.
 
@@ -153,7 +153,7 @@ _class DrawingArea extends JPanel {_
  _}_  
 _}_
 
-The [Java® 2D API](http://java.sun.com/docs/books/tutorial/2d/index.html) provides a range of advanced capabilities, such as stroking and filling, affine transformations, compositing and transparency.
+The {{% resource_link "7ab721f0-dfee-4f20-be8f-251bed24893e" "Java® 2D API" %}} provides a range of advanced capabilities, such as stroking and filling, affine transformations, compositing and transparency.
 
 {{< anchor "3" >}}{{< /anchor >}}3\. A Graphics Example
 -------------------------------------------------------

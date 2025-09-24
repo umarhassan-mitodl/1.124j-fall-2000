@@ -33,7 +33,7 @@ TOPICS
 Administrative & Introduction  
 {{% resource_link 6d7097bb-1b92-3e77-7a6b-fe4a29d36d40 "Makefile Primer" %}}  
 {{% resource_link be031066-727a-2477-3dab-687fe91d9deb "GNU Makefile Documentation" %}}  
-[CVS Documentation](http://web.mit.edu/macdev/Development/Documentation/www/CVS%20Documentation/Table%20Of%20Contents.html)
+{{% resource_link "70047631-e757-4ebf-b594-9fa8cd0048b7" "CVS Documentation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

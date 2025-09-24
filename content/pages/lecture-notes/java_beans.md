@@ -26,9 +26,9 @@ Topics
 Related Links
 -------------
 
-[Java® Beans trail in the Java® Tutorial](http://java.sun.com/docs/books/tutorial/javabeans/index.html)\- a good introduction to Java® Beans.  
-[Java® Beans Development Kit (BDK)](http://www.cs.cmu.edu/afs/cs/academic/class/15612-s98/projects/NextGen/BDK/README.html)\- provides a basic development support tool (called the BeanBox) as well as several examples of Java® Bean components. This link also provides links to various commercial development environments for Java® Beans.  
-[Java® Beans API](https://condor.depaul.edu/elliott/513/projects-archive/DS420Fall98/Paris/~ejones2.html)\- various interfaces, classes and exception types that you will encounter when developing Java® Beans.
+{{% resource_link "d905f4f3-0342-4a79-aa12-c85db657c1af" "Java® Beans trail in the Java® Tutorial" %}}\- a good introduction to Java® Beans.  
+{{% resource_link "76bb91d8-f1a2-46d6-9a94-f7476db24a22" "Java® Beans Development Kit (BDK)" %}}\- provides a basic development support tool (called the BeanBox) as well as several examples of Java® Bean components. This link also provides links to various commercial development environments for Java® Beans.  
+{{% resource_link "538a4ee5-26f0-450f-930f-618cbca4c7e6" "Java® Beans API" %}}\- various interfaces, classes and exception types that you will encounter when developing Java® Beans.
 
 {{< anchor "Intro" >}}{{< /anchor >}}1\. Introduction
 -----------------------------------------------------
@@ -46,7 +46,7 @@ Software components must, in general, adopt standard techniques for interacting 
 {{< anchor "Bean" >}}{{< /anchor >}}2\. The BeanBox
 ---------------------------------------------------
 
-This is a basic tool that Sun provides for testing Java® Beans. To run the BeanBox, your computer needs to have access to a [BDK](http://www.ecst.csuchico.edu/~amk/foo/advjava/notes/beans/BDK/) installation. To run the BeanBox, go to the _beans/beanbox_ subdirectory and then type _run_. This will bring up three windows:
+This is a basic tool that Sun provides for testing Java® Beans. To run the BeanBox, your computer needs to have access to a {{% resource_link "1eefa2fb-f38c-41b0-94d3-e5718cb604e5" "BDK" %}} installation. To run the BeanBox, go to the _beans/beanbox_ subdirectory and then type _run_. This will bring up three windows:
 
 *   The ToolBox window gives you a palette of sample Java® Beans to choose from.
 *   The BeanBox window is a container within which you can visually wire beans together.
