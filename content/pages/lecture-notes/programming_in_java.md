@@ -137,7 +137,7 @@ _netscape_
 
 {{< tableclose >}}
 
-Follow this link to see Sun Microsystems' overview: {{% resource_link "7c2b5f16-8305-470d-9de0-8d228a81a693" "About the Java® Technology" %}}
+Follow this link to see Sun Microsystems' overview: [About the Java® Technology](http://java.sun.com/docs/books/tutorial/getStarted/intro/definition.html)
 
 It takes time to learn everything about Java® and it is important to set your expectations accordingly. There are two main challenges:
 
@@ -153,7 +153,7 @@ The Java® language is still evolving. We will be using the Java® 2 platform, w
 
 Here is an online Java® tutorial.
 
-*   {{% resource_link "ce6bb643-c2cd-4fe1-9a1b-fd98c7454889" "Java® tutorial" %}}  
+*   [Java® tutorial](http://java.sun.com/docs/books/tutorial/)  
     
 
 {{< anchor "3" >}}{{< /anchor >}}3\. Applications and Applets
