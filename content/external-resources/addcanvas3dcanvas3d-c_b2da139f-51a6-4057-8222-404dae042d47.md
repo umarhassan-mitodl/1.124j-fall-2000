@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: http://java.sun.com/products/java-media/3D/forDevelopers/J3D_1_2_API/j3dapi/javax/media/j3d/View.html#addCanvas3D_javax_media_j3d_Canvas3D_
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: '*addCanvas3D*(Canvas3D c)'
+uid: b2da139f-51a6-4057-8222-404dae042d47
+wayback_url: ''
+---
