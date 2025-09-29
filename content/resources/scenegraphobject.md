@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-124j-foundations-of-software-engineering-fall-2000/d718435c535cef739917b89c8413f90f_scenegraphobject.gif
 file_size: 19007
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

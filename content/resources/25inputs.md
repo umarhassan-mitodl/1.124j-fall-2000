@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-124j-foundations-of-software-engineering-fall-2000/1cbac8d92fb422ad4bcef2b8e530b55c_25inputs.gif
 file_size: 31940
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

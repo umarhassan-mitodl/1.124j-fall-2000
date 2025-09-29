@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-124j-foundations-of-software-engineering-fall-2000/d404ba5587891a59f6278f8ae65b49b3_geometryarray.gif
 file_size: 20902
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
