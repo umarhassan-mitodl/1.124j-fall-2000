@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-124j-foundations-of-software-engineering-fall-2000/f4d31b7460d4b75c2d3b734f4be0f944_sol4.pdf
 file_size: 31546
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
